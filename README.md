@@ -1,4 +1,3 @@
-My Awesome Book
+Android-Developer-Blog翻译
 =======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+定期翻译Android官方博客，链接http://android-developers.blogspot.jp
