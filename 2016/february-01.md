@@ -1,2 +1,2 @@
-# Android Studio 2.0 - Beta
+# 加急更新中
 
