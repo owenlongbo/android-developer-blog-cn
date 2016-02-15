@@ -2,11 +2,11 @@ Android-Developer-Blog翻译
 =======
 定期翻译Android官方博客
 
-###书籍
+###阅读
 
-[点此查看Gitbook简体中文版](https://www.gitbook.com/book/smallsohosolo/android-developer-blog-cn/details)
+[Gitbook版](https://www.gitbook.com/book/smallsohosolo/android-developer-blog-cn/details)
 
-[点此查看Github简体中文版](https://github.com/smallSohoSolo/android-developer-blog-cn/blob/master/SUMMARY.md)
+[Github版](https://github.com/smallSohoSolo/android-developer-blog-cn/blob/master/SUMMARY.md)
 
 ###链接
 
