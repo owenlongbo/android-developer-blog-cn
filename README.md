@@ -20,7 +20,6 @@ Github链接https://github.com/smallSohoSolo/android-developer-blog-cn
 
 ###翻译人员
 
-翻译人员：
 - [smallSohoSolo](www.smallsoho.com)
 
 ###目录
