@@ -39,7 +39,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
  
  ![](https://1.bp.blogspot.com/-EG5o4HbkjI8/VrUBAGnYLoI/AAAAAAAACkI/V13CcOVHtzw/s1600/image00.png)
 
- ![](https://1.bp.blogspot.com/--56gUtBaOdk/VrUBQBIdaXI/AAAAAAAACkM/lF_0u0SliPY/s1600/image05.png)
+<img src="https://1.bp.blogspot.com/--56gUtBaOdk/VrUBQBIdaXI/AAAAAAAACkM/lF_0u0SliPY/s1600/image05.png" height="320px" width="240px" />
 
 ### Android模拟器
 
