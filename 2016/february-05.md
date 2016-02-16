@@ -25,7 +25,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
  - Warm Swap：当资源被更改的时候，会使用Warm Swap。他比较像Hot Swap，但是当前的Activity会重启，你在屏幕上会看见一个由Activity重启而导致的轻微的闪烁。
  - *新的特性* Cold Swap：他将会很快的重启整个程序。典型的代码结构改变，包括更改类的层次，函数的签名，静态资源的初始化，或者变量的改变。Cold Swap会生效，当你的target api大于等于21的时候。
 
- ###App Indexing
+ ### App Indexing
 
  在Android Studio2.0中支持App Indexing现在更加的简单了，App Indexing让你的app呈现在使用google搜索的用户面前，它通过索引你在Mainifest文件中提供的URL Pattern的和使用API调用来让你的程序中的内容提供给现有的和新的用户。特别的是，当你给你的app内容中添加URL的之后，你的用户能通过google搜索到的结果直接跳转到App中的内容页面。
 
