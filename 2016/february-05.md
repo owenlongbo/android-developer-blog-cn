@@ -37,13 +37,13 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
 ![](https://1.bp.blogspot.com/-EG5o4HbkjI8/VrUBAGnYLoI/AAAAAAAACkI/V13CcOVHtzw/s1600/image00.png)
 ![](https://1.bp.blogspot.com/--56gUtBaOdk/VrUBQBIdaXI/AAAAAAAACkM/lF_0u0SliPY/s1600/image05.png)
 
- ###Android模拟器
+ ### Android模拟器
 
  *在Bate版中存在* [新的更快的Adnroid模拟器](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)包括很多修复和对这次的测试发行版的增强。值得注意的是，我们在模拟器的功能菜单中更新了旋转控制和多点触控支持以使用pinch & zoom手势去帮助测试App。使用多点触控特性，按住Alt键并且点击鼠标右键在点的中心或者左击你的鼠标并且拖动去缩放
 图片
 ![](https://4.bp.blogspot.com/-w0KlXxaj-Bg/VrT3cvcuNzI/AAAAAAAACjs/RCwQO4nbb_w/s1600/image07.gif)
 
- ###接下来是什么
+ ### 接下来是什么
 
  Android Studio 2.0是一个重要的发行版，并且现在是一个好的时机去使用他的新特性在你的工作中，测试发行版接近稳定发行版的质量，含有相对较少的bug。但是在这些测试发行版中，bug仍然存在，所以如果你发现一个问题，让我们知道以至于我们可以去修复他。如果你准备使用Android Studio，你能检查更新在测试通道通过顶部菜单(Help → Check for Update [Windows/Linux] , Android Studio → Check for Updates [OS X])，当你更新好了测试版，你能使用新版本的Android Studio和Android模拟器。
 
