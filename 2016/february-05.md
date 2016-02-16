@@ -46,9 +46,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
  *在Bate版中存在* [新的更快的Adnroid模拟器](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)包括很多修复和对这次的测试发行版的增强。值得注意的是，我们在模拟器的功能菜单中更新了旋转控制和多点触控支持以使用pinch & zoom手势去帮助测试App。使用多点触控特性，按住Alt键并且点击鼠标右键在点的中心或者左击你的鼠标并且拖动去缩放
 图片
 
-
- ![](https://4.bp.blogspot.com/-w0KlXxaj-Bg/VrT3cvcuNzI/AAAAAAAACjs/RCwQO4nbb_w/s1600/image07.gif)
-
+<img src="https://4.bp.blogspot.com/-w0KlXxaj-Bg/VrT3cvcuNzI/AAAAAAAACjs/RCwQO4nbb_w/s1600/image07.gif" height="auto" width="240" />
 
 ### 接下来是什么
 
