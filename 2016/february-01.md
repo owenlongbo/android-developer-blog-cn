@@ -1,5 +1,7 @@
 # Marshmallow和用户数据
 
+>smallSohoSolo翻译 原文链接[http://android-developers.blogspot.jp/2016/02/marshmallow-and-user-data.html](http://android-developers.blogspot.jp/2016/02/marshmallow-and-user-data.html)
+
 发送自 Joanna Smith，Advocate和Giles Hogben的开发者, 任职于Google隐私团队。
 
 Marshmallow设计了很多改变去帮助你的App去管理用户数据，目的是让开发者能更加轻松的做对的事，所以Android 6.0 Marshmallow我们让你的一切在控制之中。

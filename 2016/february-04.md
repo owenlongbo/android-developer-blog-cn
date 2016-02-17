@@ -1,5 +1,7 @@
 # Tango项目研讨会致力于将室内定位系统带进生活
 
+>smallSohoSolo翻译 原文链接[http://android-developers.blogspot.jp/2016/02/project-tango-workshops-help-bring.html](http://android-developers.blogspot.jp/2016/02/project-tango-workshops-help-bring.html)
+
 发自于Eitan Marder-Eppstein,Tango项目开发工程主管
 
 GPS帮助我们找到室外的路，无论你是找家附近的杂货店还是帮助我们在一个新的城市定位。但是一旦我们进入了室内，一切变得不轻松，GPS不工作了，因为精度下降，导航变得不可能。这是启动Tango项目的原因之一。Tango的定位是厘米级精度的，在室内能带来更好的导航和体验。

@@ -1,5 +1,7 @@
 # Android Studio 2.0 - Beta
 
+>smallSohoSolo翻译 原文链接[http://android-developers.blogspot.jp/2016/02/android-studio-20-beta.html](http://android-developers.blogspot.jp/2016/02/android-studio-20-beta.html)
+
 来自 [JamalEason](https://www.google.com/+JamalEason),Android产品经理
 
 Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构建速度和虚拟机速度来增强App
