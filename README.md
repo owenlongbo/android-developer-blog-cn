@@ -1,18 +1,16 @@
 Android-Developer-Blog翻译
 =======
-定期翻译Android官方博客
+定期翻译Android官方博客，希望大家都Star一下，让更多的人看到，也能给翻译者更多的动力，谢谢大家
 
 ###阅读
 
 [Gitbook版](https://www.gitbook.com/book/smallsohosolo/android-developer-blog-cn/details)
 
-[Github版](https://github.com/smallSohoSolo/android-developer-blog-cn/blob/master/SUMMARY.md)
-
 ###链接
 
-官方博客链接http://android-developers.blogspot.jp
+官方博客链接[http://android-developers.blogspot.jp](http://android-developers.blogspot.jp)
 
-Github链接https://github.com/smallSohoSolo/android-developer-blog-cn
+Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https://github.com/smallSohoSolo/android-developer-blog-cn)
 
 ###贡献须知
 
@@ -21,11 +19,12 @@ Github链接https://github.com/smallSohoSolo/android-developer-blog-cn
 ###翻译人员
 
 - [smallSohoSolo](www.smallsoho.com)
+- [gitwizChen](https://github.com/gitwizChen)
 
 ###目录
 
-* [简介](README.md)
-* [2016](2016/2016.md)
-   * [Android Studio 2.0 新特性](2016/february-05.md)
-   * [Google Tango项目](2016/february-04.md)
-   * [FEBRUARY-01](2016/february-01.md)
+* [简介](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/index.html)
+* [2016](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/2016.html)
+   * [Android Studio 2.0 新特性](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-05.html)
+   * [Google Tango项目](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-04.html)
+   * [Marshmallow上的权限管理](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-01.html)
