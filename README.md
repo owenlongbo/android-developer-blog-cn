@@ -1,6 +1,6 @@
 Android-Developer-Blog翻译
 =======
-定期翻译Android官方博客
+定期翻译Android官方博客，希望大家都Star一下，让更多的人看到，也能给翻译者更多的动力，谢谢大家
 
 ###阅读
 
@@ -8,9 +8,9 @@ Android-Developer-Blog翻译
 
 ###链接
 
-官方博客链接http://android-developers.blogspot.jp
+官方博客链接[http://android-developers.blogspot.jp](http://android-developers.blogspot.jp)
 
-Github链接https://github.com/smallSohoSolo/android-developer-blog-cn
+Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https://github.com/smallSohoSolo/android-developer-blog-cn)
 
 ###贡献须知
 
@@ -19,6 +19,7 @@ Github链接https://github.com/smallSohoSolo/android-developer-blog-cn
 ###翻译人员
 
 - [smallSohoSolo](www.smallsoho.com)
+- [gitwizChen](https://github.com/gitwizChen)
 
 ###目录
 
