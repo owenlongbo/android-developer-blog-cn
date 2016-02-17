@@ -21,12 +21,12 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
 - [smallSohoSolo](www.smallsoho.com)
 - [gitwizChen](https://github.com/gitwizChen)
 
-###目录
+# 目录
 
-* [简介](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/index.html)
-* [2016](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/2016.html)
-   * [Android Studio 2.0 新特性](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-05.html)
-   * [Google Tango项目](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-04.html)
-   * [Marshmallow上的权限管理](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-01.html)
-   * [让你的应用出现在联想和Tango项目合作的首部智能机上](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/january-07.md)
-   * [Cardboard SDK现已集成环绕音频](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/january-13.md)
+* [简介](README.md)
+* [2016](2016/2016.md)
+   * [Android Studio 2.0 新特性](2016/february-05.md)
+   * [Google Tango项目](2016/february-04.md)
+   * [Marshmallow上的权限管理](2016/february-01.md)
+   * [让你的应用出现在联想和Tango项目合作的首部智能机上](2016/january-07.md)
+   * [Cardboard SDK现已集成环绕音频](2016/january-13.md)
