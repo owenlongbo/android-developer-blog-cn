@@ -28,3 +28,5 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
    * [Android Studio 2.0 新特性](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-05.html)
    * [Google Tango项目](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-04.html)
    * [Marshmallow上的权限管理](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/february-01.html)
+   * [让你的应用出现在联想和Tango项目合作的首部智能机上](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/january-07.md)
+   * [Cardboard SDK现已集成环绕音频](https://smallsohosolo.gitbooks.io/android-developer-blog-cn/content/2016/january-13.md)
