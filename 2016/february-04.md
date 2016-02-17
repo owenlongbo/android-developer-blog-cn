@@ -14,4 +14,4 @@ GPS帮助我们找到室外的路，无论你是找家附近的杂货店还是�
 
 ![](http://4.bp.blogspot.com/-n55nUGX_jz0/VrOIcCOkgeI/AAAAAAAACis/chKBUbHcH2E/s400/image00.jpg)
 
-我们的下一步是做一个公共开发包，在我们将要用Tango深入获取信息的地方，例如使用3D测量，或者将你的家或者建筑做成地图。与此同时，[提交你的想法](https://www.google.com/atap/project-tango/app-incubator/)给App孵化器(截止日期是2月15日)，我们会很快反馈给你！
+我们的下一步是做一个公共开发包，在我们将要用Tango深入获取信息的地方，例如使用3D测量，或者将你的家或者建筑做成地图。与此同时，[提交你的想法](https://www.google.com/atap/project-tango/app-incubator/)给App孵化器(截止日期是2月15日)，我们会很快反馈给你！ 
