@@ -19,7 +19,7 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
 ###翻译人员
 
 - [smallSohoSolo](www.smallsoho.com)
-- [gitwizChen](https://github.com/gitwizChen)
+- [wizChen](https://github.com/gitwizChen)
 
 # 目录
 
