@@ -1,6 +1,6 @@
 # 让你的应用出现在联想和Tango项目合作的首部智能机上
 
->gitwizChen翻译 原文地址[http://android-developers.blogspot.jp/2016/01/get-your-app-featured-on-first.html](http://android-developers.blogspot.jp/2016/01/get-your-app-featured-on-first.html)
+> wizChen翻译 原文地址[http://android-developers.blogspot.jp/2016/01/get-your-app-featured-on-first.html](http://android-developers.blogspot.jp/2016/01/get-your-app-featured-on-first.html)
 
 来自Johnny Lee，Tango项目组长
 

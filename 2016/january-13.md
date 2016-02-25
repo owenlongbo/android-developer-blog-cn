@@ -1,6 +1,6 @@
 # Cardboard SDK现已集成环绕音频
 
->gitwizChen翻译 原文地址[http://android-developers.blogspot.jp/2016/01/spatial-audio-comes-to-cardboard-sdk.html](http://android-developers.blogspot.jp/2016/01/spatial-audio-comes-to-cardboard-sdk.html)
+> wizChen翻译 原文地址[http://android-developers.blogspot.jp/2016/01/spatial-audio-comes-to-cardboard-sdk.html](http://android-developers.blogspot.jp/2016/01/spatial-audio-comes-to-cardboard-sdk.html)
 
 来自Nathan Martz，谷歌Cardboard产品经理
 
