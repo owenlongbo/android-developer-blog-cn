@@ -26,6 +26,7 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
 * [简介](README.md)
 * [2016](2016/2016.md)
 	- 二月
+	   * [Android Support Library 23.2 来了！](2016/february-24.md)
 	   * [为家庭设计App和游戏](2016/february-18.md)
 	   * [Android Studio 2.0 新特性](2016/february-05.md)
 	   * [Google Tango项目](2016/february-04.md)
