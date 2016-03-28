@@ -7,9 +7,9 @@
 Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构建速度和虚拟机速度来增强App
 开发体验。打造了新的特性，像"即时运行功能"，他能让你更快的编辑并且即时看到代码变化，还有新的更快的Android虚拟机， Android Studio 2.0是你不想错过的更新。正在准备最后的发行版，你可以在[Beta release channel](http://tools.android.com/download/studio/beta)下载到Android Studio 2.0 Beta。总的来说，Android Studio 2.0 release有一下新特性：
 
- - *在Bate版中存在* **即时运行功能（Instant Run）**：能够更快的编写和部署程序
- - *在Bate版中存在* **Android模拟器（Android Emulator）** [Brand new emulator](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)甚至比真实的设备还要快，并且存在一个新的用户接口。
- - *在Bate版中存在* **Google App 索引集成和测试（Google App Indexing Integration & Testing）**：添加[App Indexing](http://g.co/AppIndexing/AndroidStudio)进你的App，帮助你重新吸引用户，在第一个Android Studio 2.0预览版中，你能在你的代码中添加索引代码。在测试版中，你现在可以在IDE中测试和验证你App中的Url链接。
+ - *在Beta版中存在* **即时运行功能（Instant Run）**：能够更快的编写和部署程序
+ - *在Beta版中存在* **Android模拟器（Android Emulator）** [Brand new emulator](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)甚至比真实的设备还要快，并且存在一个新的用户接口。
+ - *在Beta版中存在* **Google App 索引集成和测试（Google App Indexing Integration & Testing）**：添加[App Indexing](http://g.co/AppIndexing/AndroidStudio)进你的App，帮助你重新吸引用户，在第一个Android Studio 2.0预览版中，你能在你的代码中添加索引代码。在测试版中，你现在可以在IDE中测试和验证你App中的Url链接。
  - **Fast ADB**：用platform-tools 23.1.0提供的ADB能使安装和推送文件快5倍！
  - **GPU预览器（GPU Profiler Preview）**：对于图形增强的应用，你现在可以直观地通过你的OpenGL ES代码一步步去优化你的应用程序或游戏。
  - **继承了IntelliJ 15（Integration of IntelliJ 15）**：Android Studio是基于高效的IntelliJ编辑器。查看IntelliJ的新特性[这里](https://www.jetbrains.com/idea/whatsnew/)
@@ -37,7 +37,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
  
  ![](https://4.bp.blogspot.com/-O_SXnqoLMI8/VrT_1TwFAEI/AAAAAAAACj8/WFRMQtxcjTE/s1600/image01.png)
 
- - *在Bate版中存在* **URl测试和验证（URL Testing & Validation）** 在新的Android Studio 2.0 Beta中现在可以验证并且检查你用构建工具添加的Url的返回结果了（Tools → Android → Google App Indexing Test）学些更多关于App Indexing索引[在这里](http://g.co/AppIndexing/AndroidStudio)
+ - *在Beta版中存在* **URl测试和验证（URL Testing & Validation）** 在新的Android Studio 2.0 Beta中现在可以验证并且检查你用构建工具添加的Url的返回结果了（Tools → Android → Google App Indexing Test）学些更多关于App Indexing索引[在这里](http://g.co/AppIndexing/AndroidStudio)
  
  ![](https://1.bp.blogspot.com/-EG5o4HbkjI8/VrUBAGnYLoI/AAAAAAAACkI/V13CcOVHtzw/s1600/image00.png)
 
@@ -45,7 +45,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升了构
 
 ### Android模拟器
 
- *在Bate版中存在* [新的更快的Adnroid模拟器](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)包括很多修复和对这次的测试发行版的增强。值得注意的是，我们在模拟器的功能菜单中更新了旋转控制和多点触控支持以使用pinch & zoom手势去帮助测试App。使用多点触控特性，按住Alt键并且点击鼠标右键在点的中心或者左击你的鼠标并且拖动去缩放
+ *在Beta版中存在* [新的更快的Adnroid模拟器](http://android-developers.blogspot.com/2015/12/android-studio-20-preview-android.html)包括很多修复和对这次的测试发行版的增强。值得注意的是，我们在模拟器的功能菜单中更新了旋转控制和多点触控支持以使用pinch & zoom手势去帮助测试App。使用多点触控特性，按住Alt键并且点击鼠标右键在点的中心或者左击你的鼠标并且拖动去缩放
 图片
 
  ![](https://4.bp.blogspot.com/-w0KlXxaj-Bg/VrT3cvcuNzI/AAAAAAAACjs/RCwQO4nbb_w/s1600/image07.gif)
