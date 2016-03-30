@@ -8,8 +8,6 @@
 
 听听Jean-Baptiste Hironde（CEO & 联合创始人），Séverine Payet（市场总监）和Damien Delépine（Android开发者）是怎么做到的，学习DJit是如何在Android Marshmallow中成长为传奇，并且使用Android和Google Play特性去打造高质量的App。
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e7t3svG9PTk" frameborder="0" allowfullscreen></iframe>
-
+[视频戳我](https://youtu.be/e7t3svG9PTk)
 
 发现更多关于[如何打造高质量音频App](http://googlesamples.github.io/android-audio-high-performance/)和[如何在Google Play中寻找成功](https://developer.android.com/distribute/googleplay/guide.html?utm_campaign=android_series_djit_012016&utm_source=anddev&utm_medium=blog)
