@@ -9,6 +9,7 @@
 	   * [Google Tango项目](2016/february-04.md)
 	   * [Marshmallow上的权限管理](2016/february-01.md)
 	- 一月
+	   * [Android开发者故事：音乐App开发者DJIP教你在Android上打造高质量的成功的商业App](2016/january-20.md)
 	   * [在Google Play开发者控制台为你的应用和应用产品创建优惠码](2016/january-15.md)
 	   * [让你的应用服务器接入谷歌登录](2016/january-14.md)
 	   * [Cardboard SDK现已集成环绕音频](2016/january-13.md)
