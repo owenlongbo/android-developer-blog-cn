@@ -37,3 +37,4 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
 	   * [让你的应用服务器接入谷歌登录](2016/january-14.md)
 	   * [Cardboard SDK现已集成环绕音频](2016/january-13.md)
 	   * [让你的应用出现在联想和Tango项目合作的首部智能机上](2016/january-07.md)
+		* [游戏权限在2016将要被修改了！](2016/january-23.md)
