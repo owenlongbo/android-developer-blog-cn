@@ -29,15 +29,15 @@
 
 他们是：
 
-	1. 请求Google+权限范围不成功时
-	   * Issue:用户在请求不成功的时候，会弹出烦人的同意窗口
-	   * 解决方案：不要请求任何额外的权限范围，除非你特别需要他们
-	2. 使用Play Games 玩家ID在非游戏类Google Api
-	   * Issue:在其他的接口你不会获得有效的返回
-	   * 解决方案：不要在其他的Google Api中使用其他的游戏ID
-	3. 使用客户端访问服务端获取Token
-	   * Issue：你的Token可能不包含你所要查找的信息
-	   * 解决方案：使用新的GetServerAuthCode API替换他
+1. 请求Google+权限范围不成功时
+	* Issue:用户在请求不成功的时候，会弹出烦人的同意窗口
+	* 解决方案：不要请求任何额外的权限范围，除非你特别需要他们
+2. 使用Play Games 玩家ID在非游戏类Google Api
+   * Issue:在其他的接口你不会获得有效的返回
+   * 解决方案：不要在其他的Google Api中使用其他的游戏ID
+3. 使用客户端访问服务端获取Token
+   * Issue：你的Token可能不包含你所要查找的信息
+   * 解决方案：使用新的GetServerAuthCode API替换他
 
 让我们看一下这些问题的细节
 
