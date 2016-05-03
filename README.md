@@ -34,6 +34,7 @@ Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https:/
 	   * [Google Tango项目](2016/february-04.md)
 	   * [Marshmallow上的权限管理](2016/february-01.md)
 	- 一月
+	   * [Player Analytics的新特性帮助你更好的理解用户的行为](2016/january-25.md)
 	   * [游戏权限在2016将要被修改了！](2016/january-23.md)
 	   * [Android开发者故事：音乐App开发者DJIP教你在Android上打造高质量的成功的商业App](2016/january-20.md)
 	   * [在Google Play开发者控制台为你的应用和应用产品创建优惠码](2016/january-15.md)
