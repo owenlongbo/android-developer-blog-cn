@@ -31,7 +31,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升构建
 
 ### App Indexing
 
- 在Android Studio2.0中支持App Indexing现在更加的简单了，App Indexing让你的app呈现在使用google搜索的用户面前，它通过索引你在Mainifest文件中提供的URL Pattern的和使用API调用来把 你的程序中的内容提供给现有的和新的用户。特别的是，当你给你的app内容中添加URL之后，你的用户能通过google搜索到的结果直接跳转到App中的内容页面。
+ 在Android Studio2.0中支持App Indexing现在更加的简单了，App Indexing让你的app呈现在使用google搜索的用户面前，它通过索引你在Mainifest文件中提供的URL Pattern的和使用API调用来把你的程序中的内容提供给现有的和新的用户。特别的是，当你给你的app内容中添加URL之后，你的用户能通过google搜索到的结果直接跳转到App中的内容页面。
 
  - **Code Generation（代码生成器）** 在Android Studio 2.0预览版中引入了，你能在AndroidManifest.xml或者Activity method中点击它（或者去Code → Generate…→ App Indexing API Code）去添加Http url的代码到你的Mainifest文件或者程序中
  
