@@ -19,7 +19,7 @@ Android Studio 2.0是最新的官方Android IDE发行版，专注于提升构建
 
 ### 即时运行功能
 
- 我们第一次看见[带有即时运行功能的版本](http://android-developers.blogspot.com/2015/11/android-studio-20-preview.html)是在11月份,这个最新的测试版包含了一个新的能力名为Cold Swap。“即时运行功能”在Andrid Studio 2.0中允许你非常快速地改变你正在正式设备或者虚拟机中运行的App，解决了每更改一行代码都要重新构建和部署的问题，Android Studio2.0将会尝试去增量构建并且仅仅推送改变或者增加的代码和资源。取决于你代码的改变，你能在一秒钟之内看见你改变的结果。你能通过最新的Gradle插件 ( 'com.android.tools.build:gradle:2.0.0-beta2’ )简单地 更新你的app，这个新特性能让你在你修改代码的时候节约时间，如果你的项目正在处于即时运行中，你能在你的Run按钮上看见一个闪电的图标
+ 我们第一次看见[带有即时运行功能的版本](http://android-developers.blogspot.com/2015/11/android-studio-20-preview.html)是在11月份,这个最新的测试版包含了一个新的能力名为Cold Swap。“即时运行功能”在Andrid Studio 2.0中允许你非常快速地改变你正在正式设备或者虚拟机中运行的App，解决了每更改一行代码都要重新构建和部署的问题，Android Studio2.0将会尝试去增量构建并且仅仅推送改变或者增加的代码和资源。取决于你代码的改变，你能在一秒钟之内看见你改变的结果。你能通过最新的Gradle插件 ( 'com.android.tools.build:gradle:2.0.0-beta2’ )简单地更新你的app，这个新特性能让你在你修改代码的时候节约时间，如果你的项目正在处于即时运行中，你能在你的Run按钮上看见一个闪电的图标
  
  ![](https://4.bp.blogspot.com/-DBI2jT5129Y/VrT23xFifmI/AAAAAAAACjY/KsyAKxaos10/s1600/image06.png)
 
