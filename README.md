@@ -1,24 +1,24 @@
-##Android-Developer-Blog翻译
+## Android-Developer-Blog翻译
 
-PS:一切回归正常更新流程~逐步补齐，如果你想要加入到此项目中，请翻译并且校准之后PR
+停更，后续移步-> [Google中文博客官方版本](http://developers.googleblog.cn/)
 
 定期翻译Android官方博客，希望大家都Star一下，让更多的人看到，也能给翻译者更多的动力，谢谢大家
 
-###阅读
+### 阅读
 
 [Gitbook版](https://www.gitbook.com/book/smallsohosolo/android-developer-blog-cn/details)
 
-###链接
+### 链接
 
 官方博客链接[http://android-developers.blogspot.jp](http://android-developers.blogspot.jp)
 
 Github链接[https://github.com/smallSohoSolo/android-developer-blog-cn](https://github.com/smallSohoSolo/android-developer-blog-cn)
 
-###贡献须知
+### 贡献须知
 
 如果你也想贡献，请在Github pull request，我会审核并且排版并且将你加到列表中
 
-###翻译人员
+### 翻译人员
 
 - [smallSohoSolo](www.smallsoho.com)
 - [wizChen](https://github.com/gitwizChen)
